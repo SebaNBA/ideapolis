@@ -10,15 +10,19 @@ ETS Ingeniería Informatica y de Telecomunicación Univesidad de Granada
 
 ----
 
-**Titulo** : _Viajar con lo justo______
+**Titulo** : _Viajar con lo justo
 
-**Autor(es)** ______________
+**Autor(es)** 
+Sebastián Covarrubias
+José Almirón
+Paola García
+Harol Flores
 
-**Resumen** : _________
+**Resumen** : Nuestra idea es poder crear una comunidad de intercambio, en la que los usuarios puedan viajar a diversos países alojandose en casas de otros usuarios, y del mismo modo, ellos puedan a la casa del usuario origen.
 
 **logotipo** :  ________
 
-**Slogan** (frase motivadora/inspiradora): ________
+**Slogan** (frase motivadora/inspiradora): No dejes que nada te detenga, y viaja!
 
 **Hashtag**  ___
 
