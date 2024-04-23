@@ -10,7 +10,7 @@ ETS Ingeniería Informatica y de Telecomunicación Univesidad de Granada
 
 ----
 
-**Titulo** : _Viajar con lo justo
+**Titulo** : Viajar con lo justo
 
 **Autor(es)** 
 Sebastián Covarrubias
@@ -18,17 +18,17 @@ José Almirón
 Paola García
 Harol Flores
 
-**Resumen** : Nuestra idea es poder crear una comunidad de intercambio, en la que los usuarios puedan viajar a diversos países alojandose en casas de otros usuarios, y del mismo modo, ellos puedan a la casa del usuario origen.
+**Resumen** : Nuestra idea es poder crear una comunidad de intercambio, en la que los usuarios puedan viajar a diversos países alojandose en casas de otros usuarios, y del mismo modo, ellos puedan visitar la casa del usuario origen.
 
-**logotipo** :  ________
+**logotipo** :  
 
 **Slogan** (frase motivadora/inspiradora): No dejes que nada te detenga, y viaja!
 
-**Hashtag**  ___
+**Hashtag**  #ViajaConLoJusto
 
 **Licencia**    (usar una creative commons: revisar en https://creativecommons.org/licenses/?lang=es_ES) 
 
-**Fecha** : 202X
+**Fecha** : 2024
 
 **Medios** (donde se tiene presencia): 
 
@@ -41,18 +41,15 @@ Harol Flores
 
 ### ¿Quiénes somos?
 
+Somos un grupo de personas que provenimos de distintos países que nos apasiona viajar y conocer diversas culturas, gastando en lo más mínimo para así preocuparnos solamente de disfrutar la experiencia.
 
 ### Misión
 
-
+Facilitar el acceso a experiencias de viaje únicas al conectar viajeros de todo el mundo para intercambiar alojamiento, conocimientos y experiencias de manera economómica y segura.
 
 #### Vision
 
-
-
- 
-
-
+Viaja con lo Justo  será la plataforma líder para el intercambio de habitaciones, con una comunidad global activa y comprometida. Aspiramos a ser la opción preferida para viajeros que buscan estancias asequibles y seguras, facilitando conexiones significativas y promoviendo el intercambio cultural sin importar su situación económica. Queremos que nuestro modelo de intercambio sea reconocido por su seguridad, diversidad y contribución a un mundo más consciente y conectado.
 
 
 ----- 
