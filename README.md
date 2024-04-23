@@ -10,7 +10,7 @@ ETS Ingeniería Informatica y de Telecomunicación Univesidad de Granada
 
 ----
 
-**Titulo** : _______
+**Titulo** : _Viajar con lo justo______
 
 **Autor(es)** ______________
 
