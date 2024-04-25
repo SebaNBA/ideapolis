@@ -20,7 +20,7 @@ Harol Flores
 
 **Resumen** : Nuestra idea es poder crear una comunidad de intercambio, en la que los usuarios puedan viajar a diversos países alojandose en casas de otros usuarios, y del mismo modo, ellos puedan visitar la casa del usuario origen.
 
-**logotipo** :  ![LogoViaja.png](/images/LogoViaja.png)
+**logotipo** :  ![LogoViaja.png](LogoViaja.png)
 
 **Slogan** (frase motivadora/inspiradora): No dejes que nada te detenga, y viaja!
 
