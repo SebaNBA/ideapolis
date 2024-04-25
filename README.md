@@ -41,7 +41,7 @@ Harol Flores
 
 ### ¿Quiénes somos?
 
-Somos un grupo de personas que provenimos de distintos países que nos apasiona viajar y conocer diversas culturas, gastando en lo más mínimo para así preocuparnos solamente de disfrutar la experiencia.
+Somos un grupo de personas que provenimos de distintos países que nos apasiona viajar y conocer diversas culturas, gastando en lo más mínimo para así preocuparnos solamente de disfrutar la experiencia. WEONA
 
 ### Misión
 
