@@ -75,7 +75,7 @@ Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomul
 
 
 ## Necesidad/oportunidad:
-debido al aumento del uso de aplicaciones o páginas web de alojamiento como Booking o AirBnb, surge la idea de poder explorar ese mercado pero desde otro punto de vsita, el cual tenga como foco principal el intercambio de hogares, suponiendo así una manera distinta de viajar y disfrutar de las distintas culturas, pero sin perder la seguridad ni la calidad del viaje.
+Debido al aumento del uso de aplicaciones o páginas web de alojamiento como Booking o AirBnb, surge la idea de poder explorar ese mercado pero desde otro punto de vsita, el cual tenga como foco principal el intercambio de hogares, suponiendo así una manera distinta de viajar y disfrutar de las distintas culturas, pero sin perder la seguridad ni la calidad del viaje.
 
 #### Motivación de la propuesta: 
 
@@ -93,21 +93,33 @@ Nuestro público objetivo serán aquellas personas que tengan un hogar al cual r
 ### Etapa 2: Prototipar / productos 
 
 (Productos que has desarrollado y como se plantea la integración de los diferentes medios, pon los que uses) 
-Página de inicio
+
+Hemos creado una página web y un blog en HumHub. La primera con intención de que las personas conozcan a través de un medio más convencional como lo es una página web, nuestro proyecto y puedan saber más de cómo surgió la idea y qué ofrecemos.
+Sin embargo, lo más provechoso que ofrecemos a nuestros usuarios, es la posibilidad de ingresar a nuestra comunidad creada en HumHub para que desde ahí puedan ir investigando qué sitios ofrecen los usuarios y con cuáles de ellos se sienten más identificados, ya sea culturalmente o por intereses.
+
+Nuestra página web está dividia en las siguientes secciones:
+
+## Página de inicio
 Explicación Comunidad
+Imagenes referencia que suele visitar los usuarios
 Redes sociales
 Publicidad
+Un enlace directo al blog de HumHub
+Pequeño apartado sobre nosotros
 
 
-Página Destinos
-Detalle de algunos destinos (Roma-Perú)
+## Página Destinos
+Detalle de algunos destinos con su respectiva descripción, atracciones turísticas recomendadas y vídeos representativos.
 
-Sobre nosotros
+## Sobre nosotros
 Misión
 Visión
+Un enlace directo al blog de HumHub
 
 
-* Imagen visual (Portada / Diseño de Interfaz) y herramienta usada 
+* Imagen visual (Portada / Diseño de Interfaz) y herramienta usada
+
+* 
 
 * redes sociales (...) 
 
