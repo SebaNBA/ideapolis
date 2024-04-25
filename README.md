@@ -38,7 +38,8 @@ Además del alojamiento, los miembros también pueden intercambiar consejos sobr
 
 *  :octocat: https://github.com/SebaNBA/ideapolis 
 * HumHub 
-* ... 
+* Instagram
+* Twitter
 
 ----
 
