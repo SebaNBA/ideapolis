@@ -134,10 +134,33 @@ Un enlace directo al blog de HumHub
 
 #### Test con usuarios (...) 
 
+Encuestas y cuestionarios: Se pueden diseñar encuestas para recopilar comentarios y opiniones de los usuarios sobre su experiencia en la plataforma. Estas encuestas pueden abordar aspectos como la facilidad de uso del sitio web, la satisfacción con el proceso de intercambio, y la calidad de las conexiones realizadas a través de la comunidad. 
 
+Análisis de datos de uso: Mediante el seguimiento y análisis de datos de uso de la página web, como el número de usuarios registrados, la frecuencia de intercambios realizados, y la duración de las estancias, se pueden obtener indicadores sobre la actividad y la participación de la comunidad. 
+
+Análisis de retroalimentación: Analizar las opiniones, comentarios y sugerencias proporcionadas por los usuarios a través de diferentes canales de comunicación, como correos electrónicos, mensajes en el sitio web o redes sociales, para identificar patrones y tendencias en la retroalimentación recibida. 
 
 #### Preguntas frecuentes
 
+¿Cómo funciona el proceso de intercambio de hospedaje en la plataforma? 
+
+¿Cuáles son los requisitos para unirse a la comunidad de intercambio de hospedaje? 
+
+¿Es seguro intercambiar hospedaje a través de la plataforma? 
+
+¿Cómo puedo encontrar a personas interesadas en intercambiar hospedaje en mi destino deseado? 
+
+¿Qué tipo de alojamiento se ofrece en la plataforma? ¿Hay opciones como casas, apartamentos, habitaciones privadas, etc.? 
+
+¿Se puede cancelar un intercambio de hospedaje? 
+
+¿Hay algún costo asociado con el uso de la plataforma? 
+
+¿Cómo puedo garantizar que haya una buena conexión con la persona con la que intercambiaré hospedaje? 
+
+¿Qué debo hacer si surge algún problema durante mi estancia en el alojamiento de intercambio? 
+
+¿Puedo dejar reseñas y calificaciones sobre mis experiencias de intercambio de hospedaje en la plataforma? 
 
 
 ### Conclusiones y trabajo futuro
