@@ -127,12 +127,13 @@ Visión
 
 Un enlace directo al blog de HumHub
 
+Imagen visual (Portada / Diseño de Interfaz) y herramienta usada
 
-* Imagen visual (Portada / Diseño de Interfaz) y herramienta usada
+redes sociales.
 
-* 
+Tenemos presencia en Twitter e Instagram:
 
-* redes sociales (...) 
+![PerfilInstagram.png](PerfilInstagram.png)
 
 * publicidad: banner (... ) 
 
