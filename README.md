@@ -18,7 +18,11 @@ José Almirón
 Paola García
 Harol Flores
 
-**Resumen** : Nuestra idea es poder crear una comunidad de intercambio, en la que los usuarios puedan viajar a diversos países alojandose en casas de otros usuarios, y del mismo modo, ellos puedan visitar la casa del usuario origen.
+**Resumen** : En esta comunidad, los miembros comparten una pasión por viajar y están dispuestos a abrir las puertas de sus hogares a viajeros de todo el mundo. El intercambio de alojamiento se basa en un principio de reciprocidad: uno ofrece su casa en su país de origen mientras que el otro ofrece la suya en el suyo. 
+
+La clave de este intercambio es el mutuo acuerdo y la afinidad entre los participantes. Antes de concretar el intercambio, ambas partes se conocen a través de la plataforma, intercambian información sobre sus preferencias, intereses y necesidades para asegurarse de que haya una buena conexión y que ambos se sientan cómodos con la idea de hospedarse en el hogar del otro. 
+
+Además del alojamiento, los miembros también pueden intercambiar consejos sobre viajes, recomendaciones de lugares que visitar en cada destino, e incluso pueden coordinar actividades juntos durante su estancia. Se trata de una comunidad en la que se fomenta la amistad, el respeto mutuo y la apertura a nuevas culturas, creando así experiencias de viaje auténticas y enriquecedoras para todos los involucrados.
 
 **logotipo** :  ![LogoViaja.png](LogoViaja.png)
 
@@ -32,9 +36,8 @@ Harol Flores
 
 **Medios** (donde se tiene presencia): 
 
-
-*  :octocat: (github url) 
-* Twitter 
+*  :octocat: https://github.com/SebaNBA/ideapolis 
+* HumHub 
 * ... 
 
 ----
@@ -71,19 +74,38 @@ Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomul
 * 
 
 
-#### Necesidad/oportunidad
+## Necesidad/oportunidad:
+debido al aumento del uso de aplicaciones o páginas web de alojamiento como Booking o AirBnb, surge la idea de poder explorar ese mercado pero desde otro punto de vsita, el cual tenga como foco principal el intercambio de hogares, suponiendo así una manera distinta de viajar y disfrutar de las distintas culturas, pero sin perder la seguridad ni la calidad del viaje.
 
-#### Motivación de la propuesta
+#### Motivación de la propuesta: 
 
-¿ por qué consideras interesante ? 
+¿ por qué consideras interesante ?
+
+Hemos visto a través de internet que las personas disfrutan en demacía compartir momentos en sus redes sociales, por lo que la propuesta de nosotros de igual modo será compartible y provechosa de divulgar.
+Además, también hemos investigado que las plataformas de alojamiento cada vez más suben sus precios y se vuelve un poco inaccesible para la cantdad de personas que quieren disfrutar sus vacaciones sin preocuparse por ejemplo, del dinero.
+Creemos que la propuesta es interesante porque además de enfocar su uso para compartir experiencias y enriqueserce de distintas culturas, también será posible hacer amigos, dejar una huella en los lugares que visitan, y por qué no, ahorrar dinero.
 
 #### Personas/Usuarios
 (...¿en quién piensas que puede ser útil ? ¿cual es tu publico objetivo?) 
+Nuestro público objetivo serán aquellas personas que tengan un hogar al cual recibir viajeros, y por supuesto, que tengan un espirítu aventurero para poder conocer el mayor cantidad de países posibles.
 
 
 ### Etapa 2: Prototipar / productos 
 
 (Productos que has desarrollado y como se plantea la integración de los diferentes medios, pon los que uses) 
+Página de inicio
+Explicación Comunidad
+Redes sociales
+Publicidad
+
+
+Página Destinos
+Detalle de algunos destinos (Roma-Perú)
+
+Sobre nosotros
+Misión
+Visión
+
 
 * Imagen visual (Portada / Diseño de Interfaz) y herramienta usada 
 
