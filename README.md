@@ -101,20 +101,30 @@ Sin embargo, lo más provechoso que ofrecemos a nuestros usuarios, es la posibil
 Nuestra página web está dividia en las siguientes secciones:
 
 ## Página de inicio
+
 Explicación Comunidad
+
 Imagenes referencia que suele visitar los usuarios
+
 Redes sociales
+
 Publicidad
+
 Un enlace directo al blog de HumHub
+
 Pequeño apartado sobre nosotros
 
 
 ## Página Destinos
+
 Detalle de algunos destinos con su respectiva descripción, atracciones turísticas recomendadas y vídeos representativos.
 
 ## Sobre nosotros
+
 Misión
+
 Visión
+
 Un enlace directo al blog de HumHub
 
 
