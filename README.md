@@ -24,7 +24,7 @@ La clave de este intercambio es el mutuo acuerdo y la afinidad entre los partici
 
 Además del alojamiento, los miembros también pueden intercambiar consejos sobre viajes, recomendaciones de lugares que visitar en cada destino, e incluso pueden coordinar actividades juntos durante su estancia. Se trata de una comunidad en la que se fomenta la amistad, el respeto mutuo y la apertura a nuevas culturas, creando así experiencias de viaje auténticas y enriquecedoras para todos los involucrados.
 
-**logotipo** :  ![LogoViaja.png](LogoViaja.png)
+**logotipo** :  ![LogoViaja2.png](LogoViaja2.png)
 
 **Slogan** (frase motivadora/inspiradora): No dejes que nada te detenga, y viaja!
 
@@ -135,7 +135,7 @@ Tenemos presencia en Twitter e Instagram:
 
 ![PerfilInstagram2.png](PerfilInstagram2.png)
 
-![PerfilTwitter.png](PerfilTwitter.png)
+![PerfilTwitter.png](PerfilTwitter2.png)
 
 * publicidad: banner (... ) 
 
