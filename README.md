@@ -133,7 +133,9 @@ redes sociales.
 
 Tenemos presencia en Twitter e Instagram:
 
-![PerfilInstagram.png](PerfilInstagram.png)
+![PerfilInstagram2.png](PerfilInstagram2.png)
+
+![PerfilTwitter.png](PerfilTwitter.png)
 
 * publicidad: banner (... ) 
 
