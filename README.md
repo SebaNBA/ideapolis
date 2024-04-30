@@ -179,7 +179,7 @@ Análisis de retroalimentación: Analizar las opiniones, comentarios y sugerenci
   
 * Posible interés del proyecto (¿ Quien podría  colaborar / involucrarse en el proyecto? ¿viable?)
 
-Influencers que quieran experimentar esta experiencia y así dar a conocer nuestro proyecto. También compañías aseguradoras que quieran  brindar todas las seguridades o inquietudes que podrían pensar los usuarios.
+Influencers que quieran experimentar esta experiencia y así dar a conocer nuestro proyecto. También compañías aseguradoras que quieran  brindar todas las seguridades o mitigar inquietudes que podrían pensar los usuarios.
 
 Referencias y recursos: 
 
