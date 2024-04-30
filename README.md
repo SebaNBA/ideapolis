@@ -45,7 +45,7 @@ Además del alojamiento, los miembros también pueden intercambiar consejos sobr
 
 ### ¿Quiénes somos?
 
-Somos un grupo de personas que provenimos de distintos países que nos apasiona viajar y conocer diversas culturas, gastando en lo más mínimo para así preocuparnos solamente de disfrutar la experiencia.
+Somos un grupo de personas que provenimos de distintos países que nos apasiona viajar y conocer diversas culturas, a través del intercambio de hogares, para así preocuparnos solamente de disfrutar la experiencia.
 
 ### Misión
 
