@@ -66,15 +66,6 @@ Metodología de desarrollo: Diseño de contenidos digitales mediante estrategia 
 
 Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomultimedia
 
-**¿Como surge el proyecto?**
-
-**Investigación de campo**   Desk research propuestas inspiradoras para el proyecto) 
-
-* @LadyDistopia (link) ...¿ por qué ?
-* (...)
-* 
-
-
 ## Necesidad/oportunidad:
 Debido al aumento del uso de aplicaciones o páginas web de alojamiento como Booking o AirBnb, surge la idea de poder explorar ese mercado pero desde otro punto de vsita, el cual tenga como foco principal el intercambio de hogares, suponiendo así una manera distinta de viajar y disfrutar de las distintas culturas, pero sin perder la seguridad ni la calidad del viaje.
 
