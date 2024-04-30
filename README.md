@@ -178,12 +178,17 @@ Análisis de retroalimentación: Analizar las opiniones, comentarios y sugerenci
 
 ### Conclusiones y trabajo futuro
 
+* Problemas identificados  (técnicos / sobre la idea inicial / planificacion… )
 
-* Grado de consecución del proyecto 
-* Problemas identificados  (técnicos / sobre la idea inicial / planificacion… ) 
+* Los problemas identificados del proyecto fue encontrar una manera 100% segura con respecto a los participantes de la comunidad que ofrecen sus hogares, pero pudimos solventar ese "riesgo" al requerir a los usuarios que respondan una serie de preguntas para así asegurarnos de que al menos son personas reales y que tienen las condiciones para recibir huespedes.
+* 
 * Propuestas de mejora (por qué consideras que merece la pena continuar)
+  
+  En el futuro, se espera que la plataforma de intercambio de hospedaje entre viajeros se convierta en un destino de referencia para aquellos que buscan experiencias de viaje únicas y significativas. Se prevé que la comunidad de usuarios crezca y se diversifique, atrayendo a viajeros de todas partes del mundo. Con mejoras continuas en la tecnología, la calidad del servicio y la seguridad de los usuarios, la plataforma puede posicionarse como líder en el sector de intercambio de hospedaje colaborativo. Además, se espera que la plataforma establezca asociaciones estratégicas con actores clave en la industria del turismo y la hospitalidad, lo que ampliará su alcance y su impacto en el mercado global del turismo. En resumen, el futuro de la plataforma es prometedor, y se espera que continúe ofreciendo experiencias de viaje memorables y enriquecedoras para todos sus usuarios.
+  
 * Posible interés del proyecto (¿ Quien podría  colaborar / involucrarse en el proyecto? ¿viable?)
 
+Influencers que quieran experimentar esta experiencia y así dar a conocer nuestro proyecto. También compañías aseguradoras que quieran  brindar todas las seguridades o inquietudes que podrían pensar los usuarios.
 
 Referencias y recursos: 
 
